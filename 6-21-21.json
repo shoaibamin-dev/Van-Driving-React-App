@@ -1,0 +1,371 @@
+{
+  "admin" : {
+    "password" : "admin",
+    "username" : "admin"
+  },
+  "children" : {
+    "-MbafSZskbFGfH9MfFsE" : {
+      "address" : "M.A Jinnah Rd, Preedy Quarters Karachi, Karachi City, Sindh, Pakistan",
+      "age" : 14,
+      "class" : 9,
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "id" : "-MbafSZskbFGfH9MfFsE",
+      "is_active" : true,
+      "lat" : 24.8633141,
+      "lng" : 67.0185366,
+      "name" : "Fizza Akbar",
+      "parent_id" : "-MbafSZskbFGfH9MfFsS",
+      "school_name" : "The Mama Parsi Girls' Secondary School"
+    },
+    "-MbafSZskbFGfH9MfFsW" : {
+      "address" : "Block-6 Block 6 PECHS, Karachi, Karachi City, Sindh, Pakistan",
+      "age" : 12,
+      "class" : 6,
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "id" : "-MbafSZskbFGfH9MfFsW",
+      "is_active" : true,
+      "lat" : 24.8633368,
+      "lng" : 67.065458,
+      "name" : "Mohsin Khan",
+      "parent_id" : "-MbafSZskbFGfH9MfFsR",
+      "school_name" : "Beacon House School Primary 1"
+    },
+    "-MbafSZskbFGfH9MfFsX" : {
+      "address" : "C-06 Block 4, K.A.E.C.H.S, Block 4 KAECHS, Karachi, Karachi City, Sindh 75400, Pakistan",
+      "age" : 14,
+      "class" : 9,
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "id" : "-MbafSZskbFGfH9MfFsX",
+      "is_active" : true,
+      "lat" : 24.863336,
+      "lng" : 67.0588919,
+      "name" : "Anas Khan",
+      "parent_id" : "-MbafSZskbFGfH9MfFsR",
+      "school_name" : "The Educators K.A.E.C.H.S Boys Campus"
+    },
+    "-MbafSZskbFGfH9MfFsZ" : {
+      "address" : "New Rd Service Ln, Block 13 Gulistan-e-Johar, Karachi, Karachi City, Sindh, Pakistan",
+      "age" : 14,
+      "class" : 9,
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "id" : "-MbafSZskbFGfH9MfFsZ",
+      "is_active" : true,
+      "lat" : 24.8633194,
+      "lng" : 66.9976058,
+      "name" : "Umar Farooq",
+      "parent_id" : "-MbafSZskbFGfH9MfFsS",
+      "school_name" : "Happy Palace Group of Schools"
+    },
+    "-Mc9mIxFmq__cb5hH5VR" : {
+      "address" : "ST. 3/B, Block F North Nazimabad Town, Karachi, Karachi City, Sindh, Pakistan",
+      "age" : "10",
+      "class" : "10",
+      "created_at" : "6/14/2021, 6:49:59 PM",
+      "id" : "-Mc9mIxFmq__cb5hH5VR",
+      "is_active" : true,
+      "lat" : 24.9293054,
+      "lng" : 67.0436858,
+      "name" : "M. Hanzala ",
+      "parent_id" : "-MbafSZskbFGfH9MfFsR",
+      "school_name" : "Usman Public School System Campus 9"
+    },
+    "-MchuVNeJ74uWLzmSvOP" : {
+      "address" : "432 Cleveland St",
+      "age" : "10",
+      "class" : "5",
+      "created_at" : "6/21/2021, 2:32:29 PM",
+      "id" : "-MchuVNeJ74uWLzmSvOP",
+      "is_active" : true,
+      "lat" : "0.123",
+      "lng" : "0.123",
+      "name" : "Ahmad Khan",
+      "parent_id" : "-MchuKmkT9-O1JoQz7Bh",
+      "school_name" : "Beacon House"
+    }
+  },
+  "driver-parent-log" : {
+    "-MbuWUK2EkV1J59Ax5TN" : {
+      "childID" : "-MbafSZskbFGfH9MfFsE",
+      "contactedNumber" : "0304203230",
+      "created_at" : "2021-06-11T10:02:32.083Z",
+      "driverID" : "-MbafSZskbFGfH9MfFsO"
+    },
+    "-MbuWmtDhM_tC2Nn2B1i" : {
+      "childID" : "-MbafSZskbFGfH9MfFsE",
+      "contactedNumber" : "0304203230",
+      "created_at" : "2021-06-11T10:03:52.969Z",
+      "driverID" : "-MbafSZskbFGfH9MfFsO"
+    },
+    "-MbuWu3_DiiP_O5JQU83" : {
+      "childID" : "-MbafSZskbFGfH9MfFsE",
+      "contactedNumber" : "0304203230",
+      "created_at" : "2021-06-11T10:04:22.764Z",
+      "driverID" : "-MbafSZskbFGfH9MfFsO"
+    },
+    "-MbuWux51IP4z8Y61N-r" : {
+      "childID" : "-MbafSZskbFGfH9MfFsE",
+      "contactedNumber" : "0304203230",
+      "created_at" : "2021-06-11T10:04:26.393Z",
+      "driverID" : "-MbafSZskbFGfH9MfFsO"
+    }
+  },
+  "driver_child" : {
+    "-MchumhsC4-MIi5VW5_0@@-MchuVNeJ74uWLzmSvOP" : {
+      "child_id" : "-MchuVNeJ74uWLzmSvOP",
+      "created_at" : "6/21/2021, 2:53:03 PM",
+      "driver_id" : "-MchumhsC4-MIi5VW5_0",
+      "id" : "-MchumhsC4-MIi5VW5_0@@-MchuVNeJ74uWLzmSvOP",
+      "is_active" : true,
+      "parent_id" : "-MchuKmkT9-O1JoQz7Bh"
+    }
+  },
+  "driverlocation" : {
+    "-MbvWDMSp6Cltt257LIa" : {
+      "created_at" : "2021-06-11T14:41:00.918Z",
+      "driverID" : "-MbafSZskbFGfH9MfFsO",
+      "latitude" : 24.863815,
+      "longitude" : 67.0664049,
+      "name" : "Hello Driver"
+    }
+  },
+  "drivers" : {
+    "-MbafSZskbFGfH9MfFsO" : {
+      "address" : "XYZ St",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "email" : "driver3@gmail.com",
+      "id" : "-MbafSZskbFGfH9MfFsO",
+      "is_active" : true,
+      "name" : "Hello Driver1",
+      "password" : "driver123",
+      "phone" : "1231231231"
+    },
+    "-MbafSZskbFGfH9MfFsP" : {
+      "address" : "XYZ St",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "email" : "driver4@gmail.com",
+      "id" : "-MbafSZskbFGfH9MfFsP",
+      "is_active" : true,
+      "name" : "Hello Driver2",
+      "password" : "driver123",
+      "phone" : "1231231231"
+    },
+    "-MbafSZskbFGfH9MfFsQ" : {
+      "address" : "XYZ St",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "email" : "driver5@gmail.com",
+      "id" : "-MbafSZskbFGfH9MfFsQ",
+      "is_active" : true,
+      "name" : "Hello Driver",
+      "password" : "driver123",
+      "phone" : "1231231231"
+    },
+    "-MchumhsC4-MIi5VW5_0" : {
+      "address" : "ABC St.",
+      "created_at" : "6/21/2021, 2:33:45 PM",
+      "email" : "hkhan@gmail.com",
+      "id" : "-MchumhsC4-MIi5VW5_0",
+      "is_active" : true,
+      "name" : "Hanzala Khan",
+      "password" : "hkhan@gmail.com",
+      "phone" : "123123123"
+    }
+  },
+  "fee_log" : {
+    "-MbAfsZsKBFYfH9MfFsC" : {
+      "amount" : 9000,
+      "child_id" : "-MbafSZskbFGfH9MfFsW",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "driver_child_id" : "-MbAfsZsKBFZfH9MfFsB",
+      "driver_id" : "-MbafSZskbFGfH9MfFsO",
+      "end_date" : "6/8/2021",
+      "id" : "-MbAfsZsKBFYfH9MfFsC",
+      "start_date" : "6/7/2021",
+      "submit_date" : "11/7/2021"
+    },
+    "-Mc9ObLwPZPh71wnn2cN" : {
+      "amount" : "10000",
+      "created_at" : "6/14/2021, 5:02:05 PM",
+      "driver_child_id" : "-MbAfsZsKBFZfH9MfFsB",
+      "end_date" : "9/6/2021",
+      "id" : "-Mc9ObLwPZPh71wnn2cN",
+      "is_active" : true,
+      "start_date" : "30/6/2021",
+      "submit_date" : "10/6/2021"
+    },
+    "-Mc9r6XY2WV2ngOnR_nJ" : {
+      "amount" : "4500",
+      "child_id" : "-MbafSZskbFGfH9MfFsZ",
+      "created_at" : "6/14/2021, 7:10:59 PM",
+      "driver_child_id" : "-MbAfsZsKBFZfH9MfFsC",
+      "driver_id" : "-MbafSZskbFGfH9MfFsO",
+      "end_date" : "25/7/2021",
+      "id" : "-Mc9r6XY2WV2ngOnR_nJ",
+      "is_active" : true,
+      "start_date" : "18/6/2021",
+      "submit_date" : "19/6/2021"
+    },
+    "-Mc9sPzlxRm1POKLpo8_" : {
+      "amount" : "7000",
+      "created_at" : "6/14/2021, 7:16:40 PM",
+      "driver_child_id" : "-Mc9qvy1jrlMw7G2yQQu",
+      "end_date" : "7/7/2021",
+      "id" : "-Mc9sPzlxRm1POKLpo8_",
+      "is_active" : true,
+      "start_date" : "1/6/2021",
+      "submit_date" : "1/6/2021"
+    }
+  },
+  "issues" : {
+    "-McA-TyL_iqsDxuQlzgn" : {
+      "create_at" : "2021-06-14T14:51:52.877Z",
+      "driverID" : "-MbafSZskbFGfH9MfFsO",
+      "driverName" : "Hello Driver1",
+      "message" : "Some issue"
+    },
+    "-McA-mhh9h_Ae65HccsW" : {
+      "create_at" : "2021-06-14T14:53:13.145Z",
+      "driverID" : "-MbafSZskbFGfH9MfFsO",
+      "driverName" : "Hello Driver1",
+      "message" : "Some issue 2"
+    },
+    "-McA-tq3rHfRSRdV02dX" : {
+      "create_at" : "2021-06-14T14:53:42.935Z",
+      "driverID" : "-MbafSZskbFGfH9MfFsO",
+      "driverName" : "Hello Driver1",
+      "message" : "Some issue 3"
+    },
+    "-McA03Lc5Q5ZLxl69l8r" : {
+      "create_at" : "2021-06-14T14:54:25.976Z",
+      "driverID" : "-MbafSZskbFGfH9MfFsO",
+      "driverName" : "Hello Driver1",
+      "message" : "Some issue 2"
+    },
+    "-McJNFwdJ1GoXvdC6JPc" : {
+      "created_at" : "16-06-2021",
+      "driverID" : "-MbafSZskbFGfH9MfFsO",
+      "driverName" : "Hello Driver1",
+      "message" : "Parent is not giving fees."
+    },
+    "-McJjDGxwzyHu6ISeNsm" : {
+      "created_at" : "16-06-2021",
+      "driverID" : "-MbafSZskbFGfH9MfFsO",
+      "driverName" : "Hello Driver1",
+      "message" : "Issue"
+    }
+  },
+  "notification-event-log" : {
+    "-MbugaiUuVEYAOxnzisz" : {
+      "childName" : "Wania Sheikh",
+      "created_at" : "2021-06-11T10:51:04.234Z",
+      "driverID" : "-MbafSZskbFGfH9MfFsO",
+      "parentID" : "-MbafSZskbFGfH9MfFsR",
+      "status" : "Dropped"
+    }
+  },
+  "parent_child" : {
+    "-MbAfsZskbFZfH9MfFsA" : {
+      "child_id" : "-MbafSZskbFGfH9MfFsW",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "id" : "-MbAfsZskbFZfH9MfFsA",
+      "is_active" : true,
+      "parent_id" : "-MbafSZskbFGfH9MfFsR"
+    },
+    "-MbAfsZskbFZfH9MfFsB" : {
+      "child_id" : "-MbafSZskbFGfH9MfFsX",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "id" : "-MbAfsZskbFZfH9MfFsB",
+      "is_active" : true,
+      "parent_id" : "-MbafSZskbFGfH9MfFsR"
+    },
+    "-MbAfsZskbFZfH9MfFsC" : {
+      "child_id" : "-MbafSZskbFGfH9MfFsW",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "id" : "-MbAfsZskbFZfH9MfFsC",
+      "is_active" : true,
+      "parent_id" : "-MbafSZskbFGfH9MfFsS"
+    },
+    "-MbAfsZskbFZfH9MfFsD" : {
+      "child_id" : "-MbafSZskbFGfH9MfFsE",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "id" : "-MbAfsZskbFZfH9MfFsD",
+      "is_active" : true,
+      "parent_id" : "-MbafSZskbFGfH9MfFsS"
+    },
+    "-Mc9pIkqNzROywSCfFHV" : {
+      "child_id" : "-MbafSZskbFGfH9MfFsW",
+      "created_at" : "6/14/2021, 7:03:04 PM",
+      "id" : "-Mc9pIkqNzROywSCfFHV",
+      "is_active" : true,
+      "parent_id" : "-Mc9jj29xJpvw5GY2iKn"
+    },
+    "-Mchu_zbCZXzhXmB_EQu" : {
+      "child_id" : "-MchuVNeJ74uWLzmSvOP",
+      "created_at" : "6/21/2021, 2:32:52 PM",
+      "id" : "-Mchu_zbCZXzhXmB_EQu",
+      "is_active" : true,
+      "parent_id" : "-MchuKmkT9-O1JoQz7Bh"
+    }
+  },
+  "parents" : {
+    "-MbafSZskbFGfH9MfFsR" : {
+      "address" : "Shrine of Misri Shah Ghazi, Khayaban-e-Bukhari, Phase 6 Defence Housing Authority, Karachi, Karachi City, Sindh 75500, Pakistan",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "email" : "parent1@gmail.com",
+      "id" : "-MbafSZskbFGfH9MfFsR",
+      "is_active" : true,
+      "lat" : 24.7983755,
+      "lng" : 67.0669018,
+      "name" : "Hamza Alam",
+      "password" : "parent1@gmail.com",
+      "phone" : "8098909"
+    },
+    "-MbafSZskbFGfH9MfFsS" : {
+      "address" : "Shah Rasool Colony Karachi, Karachi City, Sindh 75500, Pakistan",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "email" : "parent2@gmail.com",
+      "id" : "-MbafSZskbFGfH9MfFsS",
+      "is_active" : true,
+      "lat" : 24.8121676,
+      "lng" : 67.0320761,
+      "name" : "Mustaqeem Aijaz",
+      "password" : "parent1@gmail.com",
+      "phone" : "8098909"
+    },
+    "-MbafSZskbFGfH9MfFsT" : {
+      "address" : "FB Area Block 2 Hussainabad, Karachi، Pakistan",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "email" : "parent3@gmail.com",
+      "id" : "-MbafSZskbFGfH9MfFsT",
+      "is_active" : true,
+      "lat" : 24.9140526,
+      "lng" : 67.059235,
+      "name" : "Nasir Khan",
+      "password" : "parent1@gmail.com",
+      "phone" : "8098909"
+    },
+    "-Mc9jj29xJpvw5GY2iKn" : {
+      "address" : "Faizan Street(Khayban e Faizan), Block E North Nazimabad Town, Karachi, Karachi City, Sindh, Pakistan",
+      "created_at" : "6/14/2021, 6:38:44 PM",
+      "email" : "Abccparent@gmail.com",
+      "id" : "-Mc9jj29xJpvw5GY2iKn",
+      "is_active" : true,
+      "lat" : 24.9376266,
+      "lng" : 67.0393689,
+      "name" : "Mr. Habib",
+      "password" : "Abccparent@gmail.com",
+      "phone" : "123123122"
+    },
+    "-MchuKmkT9-O1JoQz7Bh" : {
+      "address" : "ABC St.",
+      "created_at" : "6/21/2021, 2:31:46 PM",
+      "email" : "helloparent123@gmail.com",
+      "id" : "-MchuKmkT9-O1JoQz7Bh",
+      "is_active" : true,
+      "lat" : "0.123",
+      "lng" : "0.123",
+      "name" : "Sheraz Khan",
+      "password" : "parent123",
+      "phone" : "331-2111050"
+    }
+  }
+}

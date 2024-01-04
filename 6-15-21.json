@@ -1,0 +1,67 @@
+{
+  "-MbafSZskbFGfH9MfFsE" : {
+    "address" : "M.A Jinnah Rd, Preedy Quarters Karachi, Karachi City, Sindh, Pakistan",
+    "age" : 14,
+    "class" : 9,
+    "created_at" : "6/7/2021, 6:33:43 PM",
+    "id" : "-MbafSZskbFGfH9MfFsE",
+    "is_active" : true,
+    "lat" : 24.8633141,
+    "lng" : 67.0185366,
+    "name" : "Fizza Akbar",
+    "parent_id" : "-MbafSZskbFGfH9MfFsS",
+    "school_name" : "The Mama Parsi Girls' Secondary School"
+  },
+  "-MbafSZskbFGfH9MfFsW" : {
+    "address" : "Block-6 Block 6 PECHS, Karachi, Karachi City, Sindh, Pakistan",
+    "age" : 12,
+    "class" : 6,
+    "created_at" : "6/7/2021, 6:33:43 PM",
+    "id" : "-MbafSZskbFGfH9MfFsW",
+    "is_active" : true,
+    "lat" : 24.8633368,
+    "lng" : 67.065458,
+    "name" : "Mohsin Khan",
+    "parent_id" : "-MbafSZskbFGfH9MfFsR",
+    "school_name" : "Beacon House School Primary 1"
+  },
+  "-MbafSZskbFGfH9MfFsX" : {
+    "address" : "C-06 Block 4, K.A.E.C.H.S, Block 4 KAECHS, Karachi, Karachi City, Sindh 75400, Pakistan",
+    "age" : 14,
+    "class" : 9,
+    "created_at" : "6/7/2021, 6:33:43 PM",
+    "id" : "-MbafSZskbFGfH9MfFsX",
+    "is_active" : true,
+    "lat" : 24.863336,
+    "lng" : 67.0588919,
+    "name" : "Anas Khan",
+    "parent_id" : "-MbafSZskbFGfH9MfFsR",
+    "school_name" : "The Educators K.A.E.C.H.S Boys Campus"
+  },
+  "-MbafSZskbFGfH9MfFsZ" : {
+    "address" : "New Rd Service Ln, Block 13 Gulistan-e-Johar, Karachi, Karachi City, Sindh, Pakistan",
+    "age" : 14,
+    "class" : 9,
+    "created_at" : "6/7/2021, 6:33:43 PM",
+    "id" : "-MbafSZskbFGfH9MfFsZ",
+    "is_active" : true,
+    "lat" : 24.8633194,
+    "lng" : 66.9976058,
+    "name" : "Umar Farooq",
+    "parent_id" : "-MbafSZskbFGfH9MfFsS",
+    "school_name" : "Happy Palace Group of Schools"
+  },
+  "-Mc9mIxFmq__cb5hH5VR" : {
+    "address" : "ST. 3/B, Block F North Nazimabad Town, Karachi, Karachi City, Sindh, Pakistan",
+    "age" : "10",
+    "class" : "10",
+    "created_at" : "6/14/2021, 6:49:59 PM",
+    "id" : "-Mc9mIxFmq__cb5hH5VR",
+    "is_active" : true,
+    "lat" : 24.9293054,
+    "lng" : 67.0436858,
+    "name" : "M. Hanzala ",
+    "parent_id" : "-MbafSZskbFGfH9MfFsR",
+    "school_name" : "Usman Public School System Campus 9"
+  }
+}

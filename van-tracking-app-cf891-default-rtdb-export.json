@@ -1,0 +1,210 @@
+{
+  "admin": {
+    "password": "admin",
+    "username": "admin"
+  },
+  "drivers": {
+    "-MbafSZskbFGfH9MfFsO": {
+      "address": "XYZ St",
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "email": "driver3@gmail.com",
+      "id": "-MbafSZskbFGfH9MfFsO",
+      "is_active": false,
+      "lat": "0.123",
+      "lng": "0.324",
+      "name": "Hello Driver",
+      "password": "driver123",
+      "phone": "1231231231"
+    },
+    "-MbafSZskbFGfH9MfFsP": {
+      "address": "XYZ St",
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "email": "driver4@gmail.com",
+      "id": "-MbafSZskbFGfH9MfFsP",
+      "is_active": false,
+      "lat": "0.123",
+      "lng": "0.324",
+      "name": "Hello Driver",
+      "password": "driver123",
+      "phone": "1231231231"
+    },
+    "-MbafSZskbFGfH9MfFsQ": {
+      "address": "XYZ St",
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "email": "driver5@gmail.com",
+      "id": "-MbafSZskbFGfH9MfFsQ",
+      "is_active": false,
+      "lat": "0.123",
+      "lng": "0.324",
+      "name": "Hello Driver",
+      "password": "driver123",
+      "phone": "1231231231"
+    }
+  },
+  "parents": {
+    "-MbafSZskbFGfH9MfFsR": {
+      "address": "Test Street",
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "email": "parent1@gmail.com",
+      "id": "-MbafSZskbFGfH9MfFsR",
+      "is_active": false,
+      "lat": "0.123",
+      "lng": "0.324",
+      "name": "Hello Driver",
+      "password": "parent1@gmail.com",
+      "phone": "8098909"
+    },
+    "-MbafSZskbFGfH9MfFsS": {
+      "address": "Test Street",
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "email": "parent2@gmail.com",
+      "id": "-MbafSZskbFGfH9MfFsS",
+      "is_active": false,
+      "lat": "0.123",
+      "lng": "0.324",
+      "name": "Hello Driver",
+      "password": "parent1@gmail.com",
+      "phone": "8098909"
+    },
+    "-MbafSZskbFGfH9MfFsT": {
+      "address": "Test Street",
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "email": "parent3@gmail.com",
+      "id": "-MbafSZskbFGfH9MfFsT",
+      "is_active": false,
+      "lat": "0.123",
+      "lng": "0.324",
+      "name": "Hello Driver",
+      "password": "parent1@gmail.com",
+      "phone": "8098909"
+    },
+    "-MbafSZskbFGfH9MfFsU": {
+      "address": "Test Street",
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "email": "parent4@gmail.com",
+      "id": "-MbafSZskbFGfH9MfFsU",
+      "is_active": false,
+      "lat": "0.123",
+      "lng": "0.324",
+      "name": "Hello Driver",
+      "password": "parent1@gmail.com",
+      "phone": "8098909"
+    }
+  },
+  "children": {
+    "-MbafSZskbFGfH9MfFsW": {
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "parent_id": "-MbafSZskbFGfH9MfFsR",
+      "id": "-MbafSZskbFGfH9MfFsW",
+      "is_active": false,
+      "name": "Hello CHILD",
+      "age": 12,
+      "class": 6,
+      "school_name": "ABC secondary school",
+      "address": "Test Street",
+      "lat": "0.123",
+      "lng": "0.324"
+    },
+    "-MbafSZskbFGfH9MfFsX": {
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "id": "-MbafSZskbFGfH9MfFsX",
+      "parent_id": "-MbafSZskbFGfH9MfFsR",
+      "is_active": false,
+      "name": "Hello CHILD 2",
+      "age": 14,
+      "class": 9,
+      "school_name": "XYZ secondary school",
+      "address": "Test Street",
+      "lat": "0.123",
+      "lng": "0.324"
+    },
+    "-MbafSZskbFGfH9MfFsZ": {
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "id": "-MbafSZskbFGfH9MfFsZ",
+      "parent_id": "-MbafSZskbFGfH9MfFsS",
+      "is_active": false,
+      "name": "Hello CHILD #3",
+      "age": 14,
+      "class": 9,
+      "school_name": "HHH secondary school",
+      "address": "Test Shcool ABC Place",
+      "lat": "0.123",
+      "lng": "0.324"
+    },
+    "-MbafSZskbFGfH9MfFsE": {
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "id": "-MbafSZskbFGfH9MfFsE",
+      "parent_id": "-MbafSZskbFGfH9MfFsS",
+      "is_active": false,
+      "name": "Hello CHILD #4",
+      "age": 14,
+      "class": 9,
+      "school_name": "HHH secondary school",
+      "address": "Test Shcool ABC Place",
+      "lat": "0.123",
+      "lng": "0.324"
+    }
+  },
+  "parent_child": {
+    "-MbAfsZskbFZfH9MfFsA": {
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "id": "-MbAfsZskbFZfH9MfFsA",
+      "parent_id": "-MbafSZskbFGfH9MfFsR",
+      "child_id": "-MbafSZskbFGfH9MfFsW"
+    },
+    "-MbAfsZskbFZfH9MfFsB": {
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "id": "-MbAfsZskbFZfH9MfFsB",
+      "parent_id": "-MbafSZskbFGfH9MfFsR",
+      "child_id": "-MbafSZskbFGfH9MfFsX"
+    },
+    "-MbAfsZskbFZfH9MfFsC": {
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "id": "-MbAfsZskbFZfH9MfFsC",
+      "parent_id": "-MbafSZskbFGfH9MfFsS",
+      "child_id": "-MbafSZskbFGfH9MfFsW"
+    },
+    "-MbAfsZskbFZfH9MfFsD": {
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "id": "-MbAfsZskbFZfH9MfFsD",
+      "parent_id": "-MbafSZskbFGfH9MfFsS",
+      "child_id": "-MbafSZskbFGfH9MfFsE"
+    }
+  },
+  "driver_child": {
+    "-MbAfsZsKBFZfH9MfFsB": {
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "id": "-MbAfsZsKBFZfH9MfFsB",
+      "parent_id": "-MbafSZskbFGfH9MfFsR",
+      "driver_id": "-MbafSZskbFGfH9MfFsO",
+      "child_id": "-MbafSZskbFGfH9MfFsW"
+    },
+    "-MbAfsZsKBFZfH9MfFsC": {
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "id": "-MbAfsZsKBFZfH9MfFsC",
+      "parent_id": "-MbafSZskbFGfH9MfFsS",
+      "driver_id": "-MbafSZskbFGfH9MfFsP",
+      "child_id": "-MbafSZskbFGfH9MfFsZ"
+    }
+  },
+  "fee_log": {
+    "-MbAfsZsKBFZfH9MfFbH": {
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "id": "-MbAfsZsKBFZfH9MfFbH",
+      "driver_child_id": "-MbAfsZsKBFZfH9MfFsC",
+      "start_date": "6/7/2021",
+      "end_date": "6/8/2021",
+      "submit_date": "10/7/2021",
+      "amount": 10000
+    },
+    "-MbAfsZsKBFYfH9MfFsC": {
+      "created_at": "6/7/2021, 6:33:43 PM",
+      "id": "-MbAfsZsKBFYfH9MfFsC",
+      "driver_child_id": "-MbAfsZsKBFZfH9MfFsB",
+      "start_date": "6/7/2021",
+      "end_date": "6/8/2021",
+      "submit_date": "10/7/2021",
+      "amount": 9000
+    }
+  }
+}

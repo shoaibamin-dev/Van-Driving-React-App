@@ -1,0 +1,244 @@
+{
+  "admin" : {
+    "password" : "admin",
+    "username" : "admin"
+  },
+  "children" : {
+    "-MbafSZskbFGfH9MfFsE" : {
+      "address" : "Test Shcool ABC Place",
+      "age" : 14,
+      "class" : 9,
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "id" : "-MbafSZskbFGfH9MfFsE",
+      "is_active" : false,
+      "lat" : "0.123",
+      "lng" : "0.324",
+      "name" : "Hello CHILD #4",
+      "parent_id" : "-MbafSZskbFGfH9MfFsS",
+      "school_name" : "HHH secondary school"
+    },
+    "-MbafSZskbFGfH9MfFsW" : {
+      "address" : "Test Street",
+      "age" : 12,
+      "class" : 6,
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "id" : "-MbafSZskbFGfH9MfFsW",
+      "is_active" : false,
+      "lat" : "0.123",
+      "lng" : "0.324",
+      "name" : "Hello CHILD",
+      "parent_id" : "-MbafSZskbFGfH9MfFsR",
+      "school_name" : "ABC secondary school"
+    },
+    "-MbafSZskbFGfH9MfFsX" : {
+      "address" : "Test Street",
+      "age" : 14,
+      "class" : 9,
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "id" : "-MbafSZskbFGfH9MfFsX",
+      "is_active" : false,
+      "lat" : "0.123",
+      "lng" : "0.324",
+      "name" : "Hello CHILD 2",
+      "parent_id" : "-MbafSZskbFGfH9MfFsR",
+      "school_name" : "XYZ secondary school"
+    },
+    "-MbafSZskbFGfH9MfFsZ" : {
+      "address" : "Test Shcool ABC Place",
+      "age" : 14,
+      "class" : 9,
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "id" : "-MbafSZskbFGfH9MfFsZ",
+      "is_active" : false,
+      "lat" : "0.123",
+      "lng" : "0.324",
+      "name" : "Hello CHILD #6",
+      "parent_id" : "-MbafSZskbFGfH9MfFsS",
+      "school_name" : "HHH secondary school"
+    }
+  },
+  "driver_child" : {
+    "-MbAfsZsKBFZfH9MfFsB" : {
+      "child_id" : "-MbafSZskbFGfH9MfFsW",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "driver_id" : "-MbafSZskbFGfH9MfFsO",
+      "id" : "-MbAfsZsKBFZfH9MfFsB",
+      "parent_id" : "-MbafSZskbFGfH9MfFsR"
+    },
+    "-MbAfsZsKBFZfH9MfFsC" : {
+      "child_id" : "-MbafSZskbFGfH9MfFsZ",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "driver_id" : "-MbafSZskbFGfH9MfFsP",
+      "id" : "-MbAfsZsKBFZfH9MfFsC",
+      "parent_id" : "-MbafSZskbFGfH9MfFsS"
+    }
+  },
+  "drivers" : {
+    "-MbafSZskbFGfH9MfFsO" : {
+      "address" : "XYZ St",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "email" : "driver3@gmail.com",
+      "id" : "-MbafSZskbFGfH9MfFsO",
+      "is_active" : false,
+      "lat" : "0.123",
+      "lng" : "0.324",
+      "name" : "Hello Driver",
+      "password" : "driver123",
+      "phone" : "1231231231"
+    },
+    "-MbafSZskbFGfH9MfFsP" : {
+      "address" : "XYZ St",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "email" : "driver4@gmail.com",
+      "id" : "-MbafSZskbFGfH9MfFsP",
+      "is_active" : false,
+      "lat" : "0.123",
+      "lng" : "0.324",
+      "name" : "Hello Driver",
+      "password" : "driver123",
+      "phone" : "1231231231"
+    },
+    "-MbafSZskbFGfH9MfFsQ" : {
+      "address" : "XYZ St",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "email" : "driver5@gmail.com",
+      "id" : "-MbafSZskbFGfH9MfFsQ",
+      "is_active" : false,
+      "lat" : "0.123",
+      "lng" : "0.324",
+      "name" : "Hello Driver",
+      "password" : "driver123",
+      "phone" : "1231231231"
+    }
+  },
+  "fee_log" : {
+    "-MbAfsZsKBFYfH9MfFsC" : {
+      "amount" : 9000,
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "driver_child_id" : "-MbAfsZsKBFZfH9MfFsB",
+      "end_date" : "6/8/2021",
+      "id" : "-MbAfsZsKBFYfH9MfFsC",
+      "start_date" : "6/7/2021",
+      "submit_date" : "10/7/2021"
+    },
+    "-Mc9ObLwPZPh71wnn2cN" : {
+      "amount" : "10000",
+      "created_at" : "6/14/2021, 5:02:05 PM",
+      "driver_child_id" : "-MbAfsZsKBFZfH9MfFsB",
+      "end_date" : "9/6/2021",
+      "id" : "-Mc9ObLwPZPh71wnn2cN",
+      "is_active" : true,
+      "start_date" : "30/6/2021",
+      "submit_date" : "10/6/2021"
+    }
+  },
+  "parent_child" : {
+    "-MbAfsZskbFZfH9MfFsA" : {
+      "child_id" : "-MbafSZskbFGfH9MfFsW",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "id" : "-MbAfsZskbFZfH9MfFsA",
+      "parent_id" : "-MbafSZskbFGfH9MfFsR"
+    },
+    "-MbAfsZskbFZfH9MfFsB" : {
+      "child_id" : "-MbafSZskbFGfH9MfFsX",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "id" : "-MbAfsZskbFZfH9MfFsB",
+      "parent_id" : "-MbafSZskbFGfH9MfFsR"
+    },
+    "-MbAfsZskbFZfH9MfFsC" : {
+      "child_id" : "-MbafSZskbFGfH9MfFsW",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "id" : "-MbAfsZskbFZfH9MfFsC",
+      "parent_id" : "-MbafSZskbFGfH9MfFsS"
+    },
+    "-MbAfsZskbFZfH9MfFsD" : {
+      "child_id" : "-MbafSZskbFGfH9MfFsE",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "id" : "-MbAfsZskbFZfH9MfFsD",
+      "parent_id" : "-MbafSZskbFGfH9MfFsS"
+    }
+  },
+  "parents" : {
+    "-MbafSZskbFGfH9MfFsR" : {
+      "address" : "Test Street",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "email" : "parent1@gmail.com",
+      "id" : "-MbafSZskbFGfH9MfFsR",
+      "is_active" : false,
+      "lat" : "0.123",
+      "lng" : "0.324",
+      "name" : "Hello Driver",
+      "password" : "parent1@gmail.com",
+      "phone" : "8098909"
+    },
+    "-MbafSZskbFGfH9MfFsS" : {
+      "address" : "Test Street",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "email" : "parent2@gmail.com",
+      "id" : "-MbafSZskbFGfH9MfFsS",
+      "is_active" : false,
+      "lat" : "0.123",
+      "lng" : "0.324",
+      "name" : "Hello Driver",
+      "password" : "parent1@gmail.com",
+      "phone" : "8098909"
+    },
+    "-MbafSZskbFGfH9MfFsT" : {
+      "address" : "Test Street",
+      "created_at" : "6/7/2021, 6:33:43 PM",
+      "email" : "parent3@gmail.com",
+      "id" : "-MbafSZskbFGfH9MfFsT",
+      "is_active" : false,
+      "lat" : "0.123",
+      "lng" : "0.324",
+      "name" : "Hello Driver",
+      "password" : "parent1@gmail.com",
+      "phone" : "8098909"
+    }
+  },
+   "driver-parent-log" : {
+    "-MbuWUK2EkV1J59Ax5TN" : {
+      "childID" : "232323232dded23dd0",
+      "contactedNumber" : "0304203230",
+      "created_at" : "2021-06-11T10:02:32.083Z",
+      "driverID" : "232323232dded2320"
+    },
+    "-MbuWmtDhM_tC2Nn2B1i" : {
+      "childID" : "232323232dded23dd0",
+      "contactedNumber" : "0304203230",
+      "created_at" : "2021-06-11T10:03:52.969Z",
+      "driverID" : "232323232dded2320"
+    },
+    "-MbuWu3_DiiP_O5JQU83" : {
+      "childID" : "232323232dded23dd0",
+      "contactedNumber" : "0304203230",
+      "created_at" : "2021-06-11T10:04:22.764Z",
+      "driverID" : "232323232dded2320"
+    },
+    "-MbuWux51IP4z8Y61N-r" : {
+      "childID" : "232323232dded23dd0",
+      "contactedNumber" : "0304203230",
+      "created_at" : "2021-06-11T10:04:26.393Z",
+      "driverID" : "232323232dded2320"
+    }
+  },
+  
+  "notification-event-log" : {
+    "-MbugaiUuVEYAOxnzisz" : {
+      "childName" : "Wania Sheikh",
+      "created_at" : "2021-06-11T10:51:04.234Z",
+      "driverID" : "23030230203cfds32d50",
+      "parentID" : "23030230203cfds32d51",
+      "status" : "Dropped"
+    }
+  },
+   "driverlocation" : {
+    "-MbvWDMSp6Cltt257LIa" : {
+      "created_at" : "2021-06-11T14:41:00.918Z",
+      "driverID" : "-MbafSZskbFGfH9MfFsO",
+      "latitude" : 24.863815,
+      "longitude" : 67.0664049,
+      "name" : "Hello Driver"
+    }
+  }
+}
